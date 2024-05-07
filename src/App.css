@@ -17,3 +17,7 @@
   overflow-y: auto;
   max-height: 300px;
 }
+
+.mouse-hover:hover{
+  cursor: pointer;
+}
